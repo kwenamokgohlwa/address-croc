@@ -1,0 +1,23 @@
+{
+  "name": "address-croc",
+  "version": "1.0.0",
+  "description": "An address book app built using Node.js that runs from the command line",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwenamokgohlwa/address-croc.git"
+  },
+  "keywords": [
+    "address",
+    "book"
+  ],
+  "author": "Kwena Mokgohlwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwenamokgohlwa/address-croc/issues"
+  },
+  "homepage": "https://github.com/kwenamokgohlwa/address-croc#readme"
+}
