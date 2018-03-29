@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kwenamokgohlwa/address-croc/issues"
   },
-  "homepage": "https://github.com/kwenamokgohlwa/address-croc#readme"
+  "homepage": "https://github.com/kwenamokgohlwa/address-croc#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
 }
